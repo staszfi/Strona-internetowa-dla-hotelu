@@ -1,0 +1,8 @@
+C:\Users\Filip\source\repos\Hotel1S\Hotel1S\obj\Debug\Hotel1S.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\Hotel1S\Hotel1S\obj\Debug\Hotel1S.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\source\repos\Hotel1S\Hotel1S\obj\Debug\Hotel1S.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Hotel1S\Hotel1S\bin\Debug\Hotel1S.exe.config
+C:\Users\Filip\source\repos\Hotel1S\Hotel1S\bin\Debug\Hotel1S.exe
+C:\Users\Filip\source\repos\Hotel1S\Hotel1S\bin\Debug\Hotel1S.pdb
+C:\Users\Filip\source\repos\Hotel1S\Hotel1S\obj\Debug\Hotel1S.exe
+C:\Users\Filip\source\repos\Hotel1S\Hotel1S\obj\Debug\Hotel1S.pdb

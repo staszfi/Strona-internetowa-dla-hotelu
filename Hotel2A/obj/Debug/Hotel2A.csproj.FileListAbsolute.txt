@@ -1,0 +1,16 @@
+C:\Users\Filip\source\repos\Hotel2A\Hotel2A\bin\Debug\Hotel2A.exe.config
+C:\Users\Filip\source\repos\Hotel2A\Hotel2A\bin\Debug\Hotel2A.exe
+C:\Users\Filip\source\repos\Hotel2A\Hotel2A\bin\Debug\Hotel2A.pdb
+C:\Users\Filip\source\repos\Hotel2A\Hotel2A\obj\Debug\Hotel2A.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\Hotel2A\Hotel2A\obj\Debug\Hotel2A.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\source\repos\Hotel2A\Hotel2A\obj\Debug\Hotel2A.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Hotel2A\Hotel2A\obj\Debug\Hotel2A.exe
+C:\Users\Filip\source\repos\Hotel2A\Hotel2A\obj\Debug\Hotel2A.pdb
+C:\Users\Filip\Desktop\Hotel2A\Hotel2A\obj\Debug\Hotel2A.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Hotel2A\Hotel2A\obj\Debug\Hotel2A.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\Desktop\Hotel2A\Hotel2A\obj\Debug\Hotel2A.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Hotel2A\Hotel2A\obj\Debug\Hotel2A.exe
+C:\Users\Filip\Desktop\Hotel2A\Hotel2A\obj\Debug\Hotel2A.pdb
+C:\Users\Filip\Desktop\Hotel2A\Hotel2A\bin\Debug\Hotel2A.exe.config
+C:\Users\Filip\Desktop\Hotel2A\Hotel2A\bin\Debug\Hotel2A.exe
+C:\Users\Filip\Desktop\Hotel2A\Hotel2A\bin\Debug\Hotel2A.pdb
